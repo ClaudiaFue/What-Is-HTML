@@ -13,4 +13,10 @@ There are some element tags that have no content. These are called empty element
 ## Web Browsers and Structure
 Web Browsers like Google Chrome, Firefox, Safari, and Edge read HTML documents and display them correctly as how the code is presented. The browser doesn't 
 display the HTML tags but it uses the tags to determine on how to display the document.
-![Web Browser Example]((https://www.wikihow.com/images/thumb/3/35/4082-22-3.jpg/v4-460px-4082-22-3.jpg)
+
+![Web Browser Example](https://www.wikihow.com/images/thumb/3/35/4082-22-3.jpg/v4-460px-4082-22-3.jpg)
+
++ [Introduction](https://github.com/ClaudiaFue/1610-Final-Project.git)
++ What is HTML?
++  [Basic HTML Code]
++  [Examples]
