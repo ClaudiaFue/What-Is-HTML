@@ -24,4 +24,4 @@ The content inside the <body> section will be displayed in a browser. The conten
 + [Introduction](https://github.com/ClaudiaFue/1610-Final-Project.git)
 + What is HTML?
 +  [Basic HTML Code](https://github.com/ClaudiaFue/HTML-Basics.git)
-+  [Examples]
++  [Examples](https://github.com/ClaudiaFue/HTML-Examples.git)
